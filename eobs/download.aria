@@ -1,0 +1,630 @@
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tg_ens_mean_0.1deg_reg_v23.0e.nc
+  out=data/tg_ens_mean_0.1deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tn_ens_mean_0.1deg_reg_v23.0e.nc
+  out=data/tn_ens_mean_0.1deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tx_ens_mean_0.1deg_reg_v23.0e.nc
+  out=data/tx_ens_mean_0.1deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/rr_ens_mean_0.1deg_reg_v23.0e.nc
+  out=data/rr_ens_mean_0.1deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/pp_ens_mean_0.1deg_reg_v23.0e.nc
+  out=data/pp_ens_mean_0.1deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/hu_ens_mean_0.1deg_reg_v23.0e.nc
+  out=data/hu_ens_mean_0.1deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/qq_ens_mean_0.1deg_reg_v23.0e.nc
+  out=data/qq_ens_mean_0.1deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tg_ens_spread_0.1deg_reg_v23.0e.nc
+  out=data/tg_ens_spread_0.1deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tn_ens_spread_0.1deg_reg_v23.0e.nc
+  out=data/tn_ens_spread_0.1deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tx_ens_spread_0.1deg_reg_v23.0e.nc
+  out=data/tx_ens_spread_0.1deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/rr_ens_spread_0.1deg_reg_v23.0e.nc
+  out=data/rr_ens_spread_0.1deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/pp_ens_spread_0.1deg_reg_v23.0e.nc
+  out=data/pp_ens_spread_0.1deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/hu_ens_spread_0.1deg_reg_v23.0e.nc
+  out=data/hu_ens_spread_0.1deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/qq_ens_spread_0.1deg_reg_v23.0e.nc
+  out=data/qq_ens_spread_0.1deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/elev_ens_0.1deg_reg_v23.0e.nc
+  out=data/elev_ens_0.1deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tg_ens_mean_0.25deg_reg_v23.0e.nc
+  out=data/tg_ens_mean_0.25deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tn_ens_mean_0.25deg_reg_v23.0e.nc
+  out=data/tn_ens_mean_0.25deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tx_ens_mean_0.25deg_reg_v23.0e.nc
+  out=data/tx_ens_mean_0.25deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/rr_ens_mean_0.25deg_reg_v23.0e.nc
+  out=data/rr_ens_mean_0.25deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/pp_ens_mean_0.25deg_reg_v23.0e.nc
+  out=data/pp_ens_mean_0.25deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/hu_ens_mean_0.25deg_reg_v23.0e.nc
+  out=data/hu_ens_mean_0.25deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/qq_ens_mean_0.25deg_reg_v23.0e.nc
+  out=data/qq_ens_mean_0.25deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tg_ens_spread_0.25deg_reg_v23.0e.nc
+  out=data/tg_ens_spread_0.25deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tn_ens_spread_0.25deg_reg_v23.0e.nc
+  out=data/tn_ens_spread_0.25deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tx_ens_spread_0.25deg_reg_v23.0e.nc
+  out=data/tx_ens_spread_0.25deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/rr_ens_spread_0.25deg_reg_v23.0e.nc
+  out=data/rr_ens_spread_0.25deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/pp_ens_spread_0.25deg_reg_v23.0e.nc
+  out=data/pp_ens_spread_0.25deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/hu_ens_spread_0.25deg_reg_v23.0e.nc
+  out=data/hu_ens_spread_0.25deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/qq_ens_spread_0.25deg_reg_v23.0e.nc
+  out=data/qq_ens_spread_0.25deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/elev_ens_0.25deg_reg_v23.0e.nc
+  out=data/elev_ens_0.25deg_reg_v23.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tg_ens_mean_0.1deg_reg_v22.0e.nc
+  out=data/tg_ens_mean_0.1deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tn_ens_mean_0.1deg_reg_v22.0e.nc
+  out=data/tn_ens_mean_0.1deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tx_ens_mean_0.1deg_reg_v22.0e.nc
+  out=data/tx_ens_mean_0.1deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/rr_ens_mean_0.1deg_reg_v22.0e.nc
+  out=data/rr_ens_mean_0.1deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/pp_ens_mean_0.1deg_reg_v22.0e.nc
+  out=data/pp_ens_mean_0.1deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/qq_ens_mean_0.1deg_reg_v22.0e.nc
+  out=data/qq_ens_mean_0.1deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tg_ens_spread_0.1deg_reg_v22.0e.nc
+  out=data/tg_ens_spread_0.1deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tn_ens_spread_0.1deg_reg_v22.0e.nc
+  out=data/tn_ens_spread_0.1deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tx_ens_spread_0.1deg_reg_v22.0e.nc
+  out=data/tx_ens_spread_0.1deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/rr_ens_spread_0.1deg_reg_v22.0e.nc
+  out=data/rr_ens_spread_0.1deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/pp_ens_spread_0.1deg_reg_v22.0e.nc
+  out=data/pp_ens_spread_0.1deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/qq_ens_spread_0.1deg_reg_v22.0e.nc
+  out=data/qq_ens_spread_0.1deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/elev_ens_0.1deg_reg_v22.0e.nc
+  out=data/elev_ens_0.1deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tg_ens_mean_0.25deg_reg_v22.0e.nc
+  out=data/tg_ens_mean_0.25deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tn_ens_mean_0.25deg_reg_v22.0e.nc
+  out=data/tn_ens_mean_0.25deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tx_ens_mean_0.25deg_reg_v22.0e.nc
+  out=data/tx_ens_mean_0.25deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/rr_ens_mean_0.25deg_reg_v22.0e.nc
+  out=data/rr_ens_mean_0.25deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/pp_ens_mean_0.25deg_reg_v22.0e.nc
+  out=data/pp_ens_mean_0.25deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/qq_ens_mean_0.25deg_reg_v22.0e.nc
+  out=data/qq_ens_mean_0.25deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tg_ens_spread_0.25deg_reg_v22.0e.nc
+  out=data/tg_ens_spread_0.25deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tn_ens_spread_0.25deg_reg_v22.0e.nc
+  out=data/tn_ens_spread_0.25deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tx_ens_spread_0.25deg_reg_v22.0e.nc
+  out=data/tx_ens_spread_0.25deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/rr_ens_spread_0.25deg_reg_v22.0e.nc
+  out=data/rr_ens_spread_0.25deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/pp_ens_spread_0.25deg_reg_v22.0e.nc
+  out=data/pp_ens_spread_0.25deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/qq_ens_spread_0.25deg_reg_v22.0e.nc
+  out=data/qq_ens_spread_0.25deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/elev_ens_0.25deg_reg_v22.0e.nc
+  out=data/elev_ens_0.25deg_reg_v22.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tg_ens_mean_0.1deg_reg_pre1950.nc
+  out=data/tg_ens_mean_0.1deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tn_ens_mean_0.1deg_reg_pre1950.nc
+  out=data/tn_ens_mean_0.1deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tx_ens_mean_0.1deg_reg_pre1950.nc
+  out=data/tx_ens_mean_0.1deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/rr_ens_mean_0.1deg_reg_pre1950.nc
+  out=data/rr_ens_mean_0.1deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tg_ens_spread_0.1deg_reg_pre1950.nc
+  out=data/tg_ens_spread_0.1deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tn_ens_spread_0.1deg_reg_pre1950.nc
+  out=data/tn_ens_spread_0.1deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tx_ens_spread_0.1deg_reg_pre1950.nc
+  out=data/tx_ens_spread_0.1deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/rr_ens_spread_0.1deg_reg_pre1950.nc
+  out=data/rr_ens_spread_0.1deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/elev_ens_0.1deg_reg_pre1950.nc
+  out=data/elev_ens_0.1deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tg_ens_mean_0.25deg_reg_pre1950.nc
+  out=data/tg_ens_mean_0.25deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tn_ens_mean_0.25deg_reg_pre1950.nc
+  out=data/tn_ens_mean_0.25deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tx_ens_mean_0.25deg_reg_pre1950.nc
+  out=data/tx_ens_mean_0.25deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/rr_ens_mean_0.25deg_reg_pre1950.nc
+  out=data/rr_ens_mean_0.25deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tg_ens_spread_0.25deg_reg_pre1950.nc
+  out=data/tg_ens_spread_0.25deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tn_ens_spread_0.25deg_reg_pre1950.nc
+  out=data/tn_ens_spread_0.25deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tx_ens_spread_0.25deg_reg_pre1950.nc
+  out=data/tx_ens_spread_0.25deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/rr_ens_spread_0.25deg_reg_pre1950.nc
+  out=data/rr_ens_spread_0.25deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/elev_ens_0.25deg_reg_pre1950.nc
+  out=data/elev_ens_0.25deg_reg_pre1950.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tg_ens_mean_0.1deg_reg_v21.0e.nc
+  out=data/tg_ens_mean_0.1deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tn_ens_mean_0.1deg_reg_v21.0e.nc
+  out=data/tn_ens_mean_0.1deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tx_ens_mean_0.1deg_reg_v21.0e.nc
+  out=data/tx_ens_mean_0.1deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/rr_ens_mean_0.1deg_reg_v21.0e.nc
+  out=data/rr_ens_mean_0.1deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/pp_ens_mean_0.1deg_reg_v21.0e.nc
+  out=data/pp_ens_mean_0.1deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/qq_ens_mean_0.1deg_reg_v21.0e.nc
+  out=data/qq_ens_mean_0.1deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tg_ens_spread_0.1deg_reg_v21.0e.nc
+  out=data/tg_ens_spread_0.1deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tn_ens_spread_0.1deg_reg_v21.0e.nc
+  out=data/tn_ens_spread_0.1deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tx_ens_spread_0.1deg_reg_v21.0e.nc
+  out=data/tx_ens_spread_0.1deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/rr_ens_spread_0.1deg_reg_v21.0e.nc
+  out=data/rr_ens_spread_0.1deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/pp_ens_spread_0.1deg_reg_v21.0e.nc
+  out=data/pp_ens_spread_0.1deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/qq_ens_spread_0.1deg_reg_v21.0e.nc
+  out=data/qq_ens_spread_0.1deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/elev_ens_0.1deg_reg_v21.0e.nc
+  out=data/elev_ens_0.1deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tg_ens_mean_0.25deg_reg_v21.0e.nc
+  out=data/tg_ens_mean_0.25deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tn_ens_mean_0.25deg_reg_v21.0e.nc
+  out=data/tn_ens_mean_0.25deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tx_ens_mean_0.25deg_reg_v21.0e.nc
+  out=data/tx_ens_mean_0.25deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/rr_ens_mean_0.25deg_reg_v21.0e.nc
+  out=data/rr_ens_mean_0.25deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/pp_ens_mean_0.25deg_reg_v21.0e.nc
+  out=data/pp_ens_mean_0.25deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/qq_ens_mean_0.25deg_reg_v21.0e.nc
+  out=data/qq_ens_mean_0.25deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tg_ens_spread_0.25deg_reg_v21.0e.nc
+  out=data/tg_ens_spread_0.25deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tn_ens_spread_0.25deg_reg_v21.0e.nc
+  out=data/tn_ens_spread_0.25deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tx_ens_spread_0.25deg_reg_v21.0e.nc
+  out=data/tx_ens_spread_0.25deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/rr_ens_spread_0.25deg_reg_v21.0e.nc
+  out=data/rr_ens_spread_0.25deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/pp_ens_spread_0.25deg_reg_v21.0e.nc
+  out=data/pp_ens_spread_0.25deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/qq_ens_spread_0.25deg_reg_v21.0e.nc
+  out=data/qq_ens_spread_0.25deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/elev_ens_0.25deg_reg_v21.0e.nc
+  out=data/elev_ens_0.25deg_reg_v21.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tg_ens_mean_0.1deg_reg_v20.0e.nc
+  out=data/tg_ens_mean_0.1deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tn_ens_mean_0.1deg_reg_v20.0e.nc
+  out=data/tn_ens_mean_0.1deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tx_ens_mean_0.1deg_reg_v20.0e.nc
+  out=data/tx_ens_mean_0.1deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/rr_ens_mean_0.1deg_reg_v20.0e.nc
+  out=data/rr_ens_mean_0.1deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/pp_ens_mean_0.1deg_reg_v20.0e.nc
+  out=data/pp_ens_mean_0.1deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/qq_ens_mean_0.1deg_reg_v20.0e.nc
+  out=data/qq_ens_mean_0.1deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tg_ens_spread_0.1deg_reg_v20.0e.nc
+  out=data/tg_ens_spread_0.1deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tn_ens_spread_0.1deg_reg_v20.0e.nc
+  out=data/tn_ens_spread_0.1deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tx_ens_spread_0.1deg_reg_v20.0e.nc
+  out=data/tx_ens_spread_0.1deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/rr_ens_spread_0.1deg_reg_v20.0e.nc
+  out=data/rr_ens_spread_0.1deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/pp_ens_spread_0.1deg_reg_v20.0e.nc
+  out=data/pp_ens_spread_0.1deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/qq_ens_spread_0.1deg_reg_v20.0e.nc
+  out=data/qq_ens_spread_0.1deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/elev_ens_0.1deg_reg_v20.0e.nc
+  out=data/elev_ens_0.1deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tg_ens_mean_0.25deg_reg_v20.0e.nc
+  out=data/tg_ens_mean_0.25deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tn_ens_mean_0.25deg_reg_v20.0e.nc
+  out=data/tn_ens_mean_0.25deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tx_ens_mean_0.25deg_reg_v20.0e.nc
+  out=data/tx_ens_mean_0.25deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/rr_ens_mean_0.25deg_reg_v20.0e.nc
+  out=data/rr_ens_mean_0.25deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/pp_ens_mean_0.25deg_reg_v20.0e.nc
+  out=data/pp_ens_mean_0.25deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/qq_ens_mean_0.25deg_reg_v20.0e.nc
+  out=data/qq_ens_mean_0.25deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tg_ens_spread_0.25deg_reg_v20.0e.nc
+  out=data/tg_ens_spread_0.25deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tn_ens_spread_0.25deg_reg_v20.0e.nc
+  out=data/tn_ens_spread_0.25deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tx_ens_spread_0.25deg_reg_v20.0e.nc
+  out=data/tx_ens_spread_0.25deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/rr_ens_spread_0.25deg_reg_v20.0e.nc
+  out=data/rr_ens_spread_0.25deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/pp_ens_spread_0.25deg_reg_v20.0e.nc
+  out=data/pp_ens_spread_0.25deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/qq_ens_spread_0.25deg_reg_v20.0e.nc
+  out=data/qq_ens_spread_0.25deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/elev_ens_0.25deg_reg_v20.0e.nc
+  out=data/elev_ens_0.25deg_reg_v20.0e.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tg_0.1deg_day_2021_grid_ensmean.nc
+  out=data/tg_0.1deg_day_2021_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tn_0.1deg_day_2021_grid_ensmean.nc
+  out=data/tn_0.1deg_day_2021_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tx_0.1deg_day_2021_grid_ensmean.nc
+  out=data/tx_0.1deg_day_2021_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/rr_0.1deg_day_2021_grid_ensmean.nc
+  out=data/rr_0.1deg_day_2021_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/pp_0.1deg_day_2021_grid_ensmean.nc
+  out=data/pp_0.1deg_day_2021_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/hu_0.1deg_day_2021_grid_ensmean.nc
+  out=data/hu_0.1deg_day_2021_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/qq_0.1deg_day_2021_grid_ensmean.nc
+  out=data/qq_0.1deg_day_2021_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tg_0.1deg_day_2021_grid_se.nc
+  out=data/tg_0.1deg_day_2021_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tn_0.1deg_day_2021_grid_se.nc
+  out=data/tn_0.1deg_day_2021_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tx_0.1deg_day_2021_grid_se.nc
+  out=data/tx_0.1deg_day_2021_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/rr_0.1deg_day_2021_grid_se.nc
+  out=data/rr_0.1deg_day_2021_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/pp_0.1deg_day_2021_grid_se.nc
+  out=data/pp_0.1deg_day_2021_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/hu_0.1deg_day_2021_grid_se.nc
+  out=data/hu_0.1deg_day_2021_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/qq_0.1deg_day_2021_grid_se.nc
+  out=data/qq_0.1deg_day_2021_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tg_0.25deg_day_2021_grid_ensmean.nc
+  out=data/tg_0.25deg_day_2021_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tn_0.25deg_day_2021_grid_ensmean.nc
+  out=data/tn_0.25deg_day_2021_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tx_0.25deg_day_2021_grid_ensmean.nc
+  out=data/tx_0.25deg_day_2021_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/rr_0.25deg_day_2021_grid_ensmean.nc
+  out=data/rr_0.25deg_day_2021_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/pp_0.25deg_day_2021_grid_ensmean.nc
+  out=data/pp_0.25deg_day_2021_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/hu_0.25deg_day_2021_grid_ensmean.nc
+  out=data/hu_0.25deg_day_2021_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/qq_0.25deg_day_2021_grid_ensmean.nc
+  out=data/qq_0.25deg_day_2021_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tg_0.25deg_day_2021_grid_se.nc
+  out=data/tg_0.25deg_day_2021_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tn_0.25deg_day_2021_grid_se.nc
+  out=data/tn_0.25deg_day_2021_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tx_0.25deg_day_2021_grid_se.nc
+  out=data/tx_0.25deg_day_2021_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/rr_0.25deg_day_2021_grid_se.nc
+  out=data/rr_0.25deg_day_2021_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/pp_0.25deg_day_2021_grid_se.nc
+  out=data/pp_0.25deg_day_2021_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/hu_0.25deg_day_2021_grid_se.nc
+  out=data/hu_0.25deg_day_2021_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/qq_0.25deg_day_2021_grid_se.nc
+  out=data/qq_0.25deg_day_2021_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tg_0.1deg_day_2021_02_grid_ensmean.nc
+  out=data/tg_0.1deg_day_2021_02_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tn_0.1deg_day_2021_02_grid_ensmean.nc
+  out=data/tn_0.1deg_day_2021_02_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tx_0.1deg_day_2021_02_grid_ensmean.nc
+  out=data/tx_0.1deg_day_2021_02_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/rr_0.1deg_day_2021_02_grid_ensmean.nc
+  out=data/rr_0.1deg_day_2021_02_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/pp_0.1deg_day_2021_02_grid_ensmean.nc
+  out=data/pp_0.1deg_day_2021_02_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/hu_0.1deg_day_2021_02_grid_ensmean.nc
+  out=data/hu_0.1deg_day_2021_02_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/qq_0.1deg_day_2021_02_grid_ensmean.nc
+  out=data/qq_0.1deg_day_2021_02_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tg_0.1deg_day_2021_02_grid_se.nc
+  out=data/tg_0.1deg_day_2021_02_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tn_0.1deg_day_2021_02_grid_se.nc
+  out=data/tn_0.1deg_day_2021_02_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tx_0.1deg_day_2021_02_grid_se.nc
+  out=data/tx_0.1deg_day_2021_02_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/rr_0.1deg_day_2021_02_grid_se.nc
+  out=data/rr_0.1deg_day_2021_02_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/pp_0.1deg_day_2021_02_grid_se.nc
+  out=data/pp_0.1deg_day_2021_02_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/hu_0.1deg_day_2021_02_grid_se.nc
+  out=data/hu_0.1deg_day_2021_02_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/qq_0.1deg_day_2021_02_grid_se.nc
+  out=data/qq_0.1deg_day_2021_02_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tg_0.25deg_day_2021_02_grid_ensmean.nc
+  out=data/tg_0.25deg_day_2021_02_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tn_0.25deg_day_2021_02_grid_ensmean.nc
+  out=data/tn_0.25deg_day_2021_02_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tx_0.25deg_day_2021_02_grid_ensmean.nc
+  out=data/tx_0.25deg_day_2021_02_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/rr_0.25deg_day_2021_02_grid_ensmean.nc
+  out=data/rr_0.25deg_day_2021_02_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/pp_0.25deg_day_2021_02_grid_ensmean.nc
+  out=data/pp_0.25deg_day_2021_02_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/hu_0.25deg_day_2021_02_grid_ensmean.nc
+  out=data/hu_0.25deg_day_2021_02_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/qq_0.25deg_day_2021_02_grid_ensmean.nc
+  out=data/qq_0.25deg_day_2021_02_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tg_0.25deg_day_2021_02_grid_se.nc
+  out=data/tg_0.25deg_day_2021_02_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tn_0.25deg_day_2021_02_grid_se.nc
+  out=data/tn_0.25deg_day_2021_02_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tx_0.25deg_day_2021_02_grid_se.nc
+  out=data/tx_0.25deg_day_2021_02_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/rr_0.25deg_day_2021_02_grid_se.nc
+  out=data/rr_0.25deg_day_2021_02_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/pp_0.25deg_day_2021_02_grid_se.nc
+  out=data/pp_0.25deg_day_2021_02_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/hu_0.25deg_day_2021_02_grid_se.nc
+  out=data/hu_0.25deg_day_2021_02_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/qq_0.25deg_day_2021_02_grid_se.nc
+  out=data/qq_0.25deg_day_2021_02_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tg_0.1deg_day_2021_01_grid_ensmean.nc
+  out=data/tg_0.1deg_day_2021_01_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tn_0.1deg_day_2021_01_grid_ensmean.nc
+  out=data/tn_0.1deg_day_2021_01_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tx_0.1deg_day_2021_01_grid_ensmean.nc
+  out=data/tx_0.1deg_day_2021_01_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/rr_0.1deg_day_2021_01_grid_ensmean.nc
+  out=data/rr_0.1deg_day_2021_01_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/pp_0.1deg_day_2021_01_grid_ensmean.nc
+  out=data/pp_0.1deg_day_2021_01_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/hu_0.1deg_day_2021_01_grid_ensmean.nc
+  out=data/hu_0.1deg_day_2021_01_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/qq_0.1deg_day_2021_01_grid_ensmean.nc
+  out=data/qq_0.1deg_day_2021_01_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tg_0.1deg_day_2021_01_grid_se.nc
+  out=data/tg_0.1deg_day_2021_01_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tn_0.1deg_day_2021_01_grid_se.nc
+  out=data/tn_0.1deg_day_2021_01_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tx_0.1deg_day_2021_01_grid_se.nc
+  out=data/tx_0.1deg_day_2021_01_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/rr_0.1deg_day_2021_01_grid_se.nc
+  out=data/rr_0.1deg_day_2021_01_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/pp_0.1deg_day_2021_01_grid_se.nc
+  out=data/pp_0.1deg_day_2021_01_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/hu_0.1deg_day_2021_01_grid_se.nc
+  out=data/hu_0.1deg_day_2021_01_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/qq_0.1deg_day_2021_01_grid_se.nc
+  out=data/qq_0.1deg_day_2021_01_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tg_0.25deg_day_2021_01_grid_ensmean.nc
+  out=data/tg_0.25deg_day_2021_01_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tn_0.25deg_day_2021_01_grid_ensmean.nc
+  out=data/tn_0.25deg_day_2021_01_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tx_0.25deg_day_2021_01_grid_ensmean.nc
+  out=data/tx_0.25deg_day_2021_01_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/rr_0.25deg_day_2021_01_grid_ensmean.nc
+  out=data/rr_0.25deg_day_2021_01_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/pp_0.25deg_day_2021_01_grid_ensmean.nc
+  out=data/pp_0.25deg_day_2021_01_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/hu_0.25deg_day_2021_01_grid_ensmean.nc
+  out=data/hu_0.25deg_day_2021_01_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/qq_0.25deg_day_2021_01_grid_ensmean.nc
+  out=data/qq_0.25deg_day_2021_01_grid_ensmean.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tg_0.25deg_day_2021_01_grid_se.nc
+  out=data/tg_0.25deg_day_2021_01_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tn_0.25deg_day_2021_01_grid_se.nc
+  out=data/tn_0.25deg_day_2021_01_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/tx_0.25deg_day_2021_01_grid_se.nc
+  out=data/tx_0.25deg_day_2021_01_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/rr_0.25deg_day_2021_01_grid_se.nc
+  out=data/rr_0.25deg_day_2021_01_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/pp_0.25deg_day_2021_01_grid_se.nc
+  out=data/pp_0.25deg_day_2021_01_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/hu_0.25deg_day_2021_01_grid_se.nc
+  out=data/hu_0.25deg_day_2021_01_grid_se.nc
+
+https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/months/ens/qq_0.25deg_day_2021_01_grid_se.nc
+  out=data/qq_0.25deg_day_2021_01_grid_se.nc
+
