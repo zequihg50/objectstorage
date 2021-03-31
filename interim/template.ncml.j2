@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+{% set sorting = [('GLOBALS', '_DRS_variable'), ('GLOBALS', '_DRS_level'), ('GLOBALS', 'localpath')] %}
+<netcdf xmlns="http://www.unidata.ucar.edu/namespaces/netcdf/ncml-2.2">
+  {% for _,v in df[[('GLOBALS', '_DRS_variable'), ('GLOBALS', 'stdvarname')]].dropna().drop_duplicates().iterrows() %}
+  <variable name="{{ v[('GLOBALS', 'stdvarname')] }}" orgName="{{ v[('GLOBALS', '_DRS_variable')] }}"/>
+  {% endfor %}
+
+  <aggregation type="union">
+    <netcdf>
+      <variable name="level" shape="level">
+        <attribute name="_CoordinateAxisType" value="Height"/>
+      </variable>
+      <aggregation type="joinNew" dimName="level">
+        {% for v in df[df[('GLOBALS', '_DRS_level')] != 'SFC'][('GLOBALS', '_DRS_variable')].unique() %}
+        <variableAgg name="{{ v }}"/>
+        {% endfor %}
+        {% for levelname,levelgroup in df[df[('GLOBALS', '_DRS_level')] != 'SFC'].sort_values(by=sorting).groupby([('GLOBALS', '_DRS_level')]) %}
+        <netcdf coordValue="{{ levelname }}">
+          <aggregation type="union">
+          {% for varname,vargroup in levelgroup.groupby([('GLOBALS', '_DRS_variable')]) %}
+          <netcdf>
+            <dimension name="time_{{ varname }}" orgName="time"/>
+            <variable name="time_{{ varname }}" orgName="time"/>
+            <variable name="{{ varname }}" shape="time_{{ varname }} rlat rlon">
+              <attribute name="coordinates" value="lat lon time_{{ varname }}"/>
+              <!-- some attributes change between files so I pick from the first one -->
+              {% for attr in vargroup[varname].columns %}
+              <attribute name="{{ attr }}" value="{{ vargroup.iloc[0][varname, attr] }}"/>
+              {% endfor %}
+            </variable>
+            <aggregation type="joinExisting" dimName="time">
+              {% for _,file in vargroup.iterrows() %}
+              {% if file[('time', '_values')]|length == 4393 %}
+              <!-- This file has 10 repeated time values, remove them -->
+              <netcdf ncoords="4383">
+                <aggregation type="joinExisting" dimName="time">
+                  <netcdf>
+                    <aggregation type="union">
+                      <dimension name="time" length="4017"/>
+                      <variable name="time" shape="time"/>
+                      <variable name="{{ file[('GLOBALS', '_DRS_variable')] }}" shape="time rlat rlon"/>
+                      <netcdf location="{{ file[('GLOBALS', 'localpath')] }}" ncoords="4017">
+                        <variable name="time">
+                          <logicalSection section="(0:4016)"/>
+                        </variable>
+                        <variable name="{{ file[('GLOBALS', '_DRS_variable')] }}">
+                          <logicalSection section="(0:4016,:,:)"/>
+                        </variable>
+                      </netcdf>
+                    </aggregation>
+                  </netcdf>
+                  <netcdf>
+                    <aggregation type="union">
+                      <dimension name="time" length="366"/>
+                      <variable name="time" shape="time"/>
+                      <variable name="{{ file[('GLOBALS', '_DRS_variable')] }}" shape="time rlat rlon"/>
+                      <netcdf location="{{ file[('GLOBALS', 'localpath')] }}" ncoords="366">
+                        <variable name="time">
+                          <logicalSection section="(4027:4392)"/>
+                        </variable>
+                        <variable name="{{ file[('GLOBALS', '_DRS_variable')] }}">
+                          <logicalSection section="(4027:4392,:,:)"/>
+                        </variable>
+                      </netcdf>
+                    </aggregation>
+                  </netcdf>
+                </aggregation>
+              </netcdf>
+              {% else %}
+              <netcdf location="{{ file[('GLOBALS', 'localpath')] }}" ncoords="{{ file[('_d_time', 'size')] }}">
+                <variable name="time">
+                  <values>{{ file[('time', '_values')]|join(' ') }}</values>
+                </variable>
+              </netcdf>
+              {% endif %}
+              {% endfor %}
+            </aggregation>
+          </netcdf>
+          {% endfor %}
+          </aggregation>
+        </netcdf>
+        {% endfor %}
+      </aggregation>
+    </netcdf>
+    {% for varname,vargroup in df[df[('GLOBALS', '_DRS_level')] == 'SFC'].sort_values(by=sorting).groupby([('GLOBALS', '_DRS_variable')]) %}
+    <netcdf>
+      <dimension name="time_{{ varname }}" orgName="time"/>
+      <variable name="time_{{ varname }}" orgName="time"/>
+      <variable name="{{ varname }}" shape="time_{{ varname }} rlat rlon">
+        <attribute name="coordinates" value="lat lon time_{{ varname }}"/>
+        <!-- some attributes change between files so I pick from the first one -->
+        {% for attr in vargroup[varname].columns %}
+        <attribute name="{{ attr }}" value="{{ vargroup.iloc[0][varname, attr] }}"/>
+        {% endfor %}
+      </variable>
+      <aggregation type="joinExisting" dimName="time">
+        {% for _,file in vargroup.iterrows() %}
+        {% if file[('GLOBALS', 'localpath')] == '/oceano/gmeteo/WORK/ensembles/downscalingPortal/GCMData/ERA_INTERIM_DM/data/G_INTERIM_SFC_2T_1979_2012.nc' %}
+        <netcdf>
+          <aggregation type="joinExisting" dimName="time">
+            <netcdf>
+              <aggregation type="union">
+                <dimension name="time" length="12053"/>
+                <variable name="time" shape="time"/>
+                <variable name="{{ file[('GLOBALS', '_DRS_variable')] }}" shape="time rlat rlon"/>
+                <netcdf location="{{ file[('GLOBALS', 'localpath')] }}" ncoords="12053">
+                  <variable name="time">
+                    <logicalSection section="(0:12052)"/>
+                  </variable>
+                  <variable name="{{ file[('GLOBALS', '_DRS_variable')] }}">
+                    <logicalSection section="(0:12052,:,:)"/>
+                  </variable>
+                </netcdf>
+              </aggregation>
+            </netcdf>
+            <netcdf>
+              <aggregation type="union">
+                <dimension name="time" length="366"/>
+                <variable name="time" shape="time"/>
+                <variable name="{{ file[('GLOBALS', '_DRS_variable')] }}" shape="time rlat rlon"/>
+                <netcdf location="{{ file[('GLOBALS', 'localpath')] }}" ncoords="366">
+                  <variable name="time">
+                    <logicalSection section="(12063:12428)"/>
+                  </variable>
+                  <variable name="{{ file[('GLOBALS', '_DRS_variable')] }}">
+                    <logicalSection section="(12063:12428,:,:)"/>
+                  </variable>
+                </netcdf>
+              </aggregation>
+            </netcdf>
+          </aggregation>
+        </netcdf>
+        {% elif file[('GLOBALS', 'localpath')] == '/oceano/gmeteo/WORK/ensembles/downscalingPortal/GCMData/ERA_INTERIM_DM/data/G_INTERIM_SFC_SLP_2001_2012.nc' %}
+        <netcdf>
+          <aggregation type="joinExisting" dimName="time">
+            <netcdf>
+              <aggregation type="union">
+                <dimension name="time" length="4017"/>
+                <variable name="time" shape="time"/>
+                <variable name="{{ file[('GLOBALS', '_DRS_variable')] }}" shape="time rlat rlon"/>
+                <netcdf location="{{ file[('GLOBALS', 'localpath')] }}" ncoords="4017">
+                  <variable name="time">
+                    <logicalSection section="(0:4016)"/>
+                  </variable>
+                  <variable name="{{ file[('GLOBALS', '_DRS_variable')] }}">
+                    <logicalSection section="(0:4016,:,:)"/>
+                  </variable>
+                </netcdf>
+              </aggregation>
+            </netcdf>
+            <netcdf>
+              <aggregation type="union">
+                <dimension name="time" length="366"/>
+                <variable name="time" shape="time"/>
+                <variable name="{{ file[('GLOBALS', '_DRS_variable')] }}" shape="time rlat rlon"/>
+                <netcdf location="{{ file[('GLOBALS', 'localpath')] }}" ncoords="366">
+                  <variable name="time">
+                    <logicalSection section="(4027:4392)"/>
+                  </variable>
+                  <variable name="{{ file[('GLOBALS', '_DRS_variable')] }}">
+                    <logicalSection section="(4027:4392,:,:)"/>
+                  </variable>
+                </netcdf>
+              </aggregation>
+            </netcdf>
+          </aggregation>
+        </netcdf>
+        {% else %}
+        <netcdf location="{{ file[('GLOBALS', 'localpath')] }}" ncoords="{{ file[('_d_time', 'size')] }}" />
+        {% endif %}
+        {% endfor %}
+      </aggregation>
+    </netcdf>
+    {% endfor %}
+  </aggregation>
+</netcdf>
