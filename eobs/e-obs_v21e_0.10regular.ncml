@@ -1,0 +1,31 @@
+<netcdf xmlns="http://www.unidata.ucar.edu/namespaces/netcdf/ncml-2.2">
+  <dimension isUnlimited="false" length="25567" name="time"/>
+  <variable name="time">
+    <attribute name="units" value="days since 1950-01-01 00:00"/>
+    <attribute name="_CoordinateAxisType" value="Time" />
+    <attribute name="standard_name" value="time"/>
+    <values increment="1" start="0"/>
+  </variable>
+  <dimension name="time_qq" length="14610" isUnlimited="false"/>
+  <variable name="time_qq" shape="time_qq" type="int">
+    <attribute name="units" value="days since 1950-01-01 00:00"/>
+    <attribute name="_CoordinateAxisType" value="Time" />
+    <attribute name="standard_name" value="time"/>
+    <values increment="1" start="10957"/>
+  </variable> 
+  <aggregation type="union">
+    <netcdf location="./elev_ens_0.1deg_reg_v21.0e.nc"/>
+    <netcdf location="./tg_ens_mean_0.1deg_reg_v21.0e.nc"/>
+    <netcdf location="./tn_ens_mean_0.1deg_reg_v21.0e.nc"/>
+    <netcdf location="./tx_ens_mean_0.1deg_reg_v21.0e.nc"/>
+    <netcdf location="./rr_ens_mean_0.1deg_reg_v21.0e.nc"/>
+    <netcdf location="./pp_ens_mean_0.1deg_reg_v21.0e.nc"/>
+    <netcdf location="./qq_ens_mean_0.1deg_reg_v21.0e.nc">
+      <dimension name="time_qq" orgName="time"/>
+      <variable name="time_qq" orgName="time" />
+      <variable name="qq">
+        <attribute name="coordinates" value="time_qq latitude longitude"/>
+      </variable>
+    </netcdf>
+  </aggregation>
+</netcdf>
